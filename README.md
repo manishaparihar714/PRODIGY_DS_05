@@ -37,7 +37,6 @@ The goal is to uncover **accident hotspots** and understand **contributing facto
 - Python 🐍  
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
-- Folium (for hotspot visualization)  
 
 ---
 
